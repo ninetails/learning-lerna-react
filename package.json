@@ -1,6 +1,6 @@
 {
   "name": "learning-lerna-react",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Article: https://codeburst.io/monorepos-by-example-part-3-1ebdea7ccbea",
   "private": true,
   "workspaces": [
