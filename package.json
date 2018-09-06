@@ -1,0 +1,32 @@
+{
+  "name": "learning-lerna-react",
+  "version": "0.0.0",
+  "description": "Article: https://codeburst.io/monorepos-by-example-part-3-1ebdea7ccbea",
+  "main": "index.js",
+  "scripts": {
+    "commitmsg": "commitlint -E GIT_PARAMS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninetails/learning-lerna-react.git"
+  },
+  "keywords": [],
+  "author": "Ninetails - Carlos Kazuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninetails/learning-lerna-react/issues"
+  },
+  "homepage": "https://github.com/ninetails/learning-lerna-react#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.1.2",
+    "@commitlint/config-conventional": "^7.1.2",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "husky": "^0.14.3"
+  }
+}
