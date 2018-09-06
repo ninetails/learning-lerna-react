@@ -7,6 +7,8 @@
     "packages/*"
   ],
   "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
     "commitmsg": "commitlint -E GIT_PARAMS"
   },
   "repository": {
