@@ -29,6 +29,7 @@
   "homepage": "https://github.com/ninetails/learning-lerna-react#readme",
   "devDependencies": {
     "@commitlint/cli": "^7.1.2",
+    "@commitlint/config-lerna-scopes": "^7.1.2",
     "babel-eslint": "^9.0.0",
     "eslint": "^5.5.0",
     "eslint-config-standard": "^12.0.0",
@@ -41,8 +42,5 @@
     "generate-changelog": "^1.7.1",
     "husky": "^0.14.3",
     "lerna": "^3.3.0"
-  },
-  "dependencies": {
-    "@commitlint/config-lerna-scopes": "^7.1.2"
   }
 }
