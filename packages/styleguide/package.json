@@ -1,6 +1,6 @@
 {
   "name": "styleguide",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
   "dependencies": {
     "catalog": "^3.5.5",
